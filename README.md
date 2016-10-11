@@ -1,6 +1,7 @@
-# Angular 2 Hero Editor Source
+# Angular 2 Heroes Tours
 [![Build Status][travis-badge]][travis-badge-url]
 
+Repositorio para estudio de angular 2, poniendo en practica los ejercicios de la pagina oficial de angular.
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
 
